@@ -1,0 +1,2 @@
+# canvasMagnify
+Created with CodeSandbox
